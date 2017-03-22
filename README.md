@@ -1,4 +1,4 @@
-# Latihan Bab 1
+# Latihan Bab 2 dan 3
 
 ## Prosedur Pengerjaan
 
